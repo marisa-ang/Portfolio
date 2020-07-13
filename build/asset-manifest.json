@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mlang/web215/lesson14/build/static/css/main.1e1ae82f.chunk.css",
+    "main.js": "/mlang/web215/lesson14/build/static/js/main.2eec5abd.chunk.js",
+    "main.js.map": "/mlang/web215/lesson14/build/static/js/main.2eec5abd.chunk.js.map",
+    "runtime-main.js": "/mlang/web215/lesson14/build/static/js/runtime-main.935c863b.js",
+    "runtime-main.js.map": "/mlang/web215/lesson14/build/static/js/runtime-main.935c863b.js.map",
+    "static/js/2.4144735a.chunk.js": "/mlang/web215/lesson14/build/static/js/2.4144735a.chunk.js",
+    "static/js/2.4144735a.chunk.js.map": "/mlang/web215/lesson14/build/static/js/2.4144735a.chunk.js.map",
+    "index.html": "/mlang/web215/lesson14/build/index.html",
+    "precache-manifest.e149db28f57a6cd2ba086fb5a097809d.js": "/mlang/web215/lesson14/build/precache-manifest.e149db28f57a6cd2ba086fb5a097809d.js",
+    "service-worker.js": "/mlang/web215/lesson14/build/service-worker.js",
+    "static/css/main.1e1ae82f.chunk.css.map": "/mlang/web215/lesson14/build/static/css/main.1e1ae82f.chunk.css.map",
+    "static/js/2.4144735a.chunk.js.LICENSE": "/mlang/web215/lesson14/build/static/js/2.4144735a.chunk.js.LICENSE",
+    "static/media/me.png": "/mlang/web215/lesson14/build/static/media/me.6467b902.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.935c863b.js",
+    "static/js/2.4144735a.chunk.js",
+    "static/css/main.1e1ae82f.chunk.css",
+    "static/js/main.2eec5abd.chunk.js"
+  ]
+}
